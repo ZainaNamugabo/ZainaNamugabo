@@ -1,8 +1,8 @@
-Meet Zaina Namugabo: Your Expert Virtual Assistant in Data Science, Analytics, and Machine Learning
+Meet Zaina Namugabo: Your Expert Personel in Data Science, Analytics, and Machine Learning
 
 I’m passionate about empowering businesses and professionals with data-driven insights to optimize workflows and achieve success.  
 
-My specialized virtual services span across:  
+My specialized services span across:  
 🔹 Data Science & Analytics– Collecting, cleaning, and interpreting data for actionable insights.  
 
 🔹 Machine Learning Assistance– Model development, training, and evaluation to streamline predictive analytics.  
@@ -11,9 +11,7 @@ My specialized virtual services span across:
 
 🔹 Dashboard & Reporting– Building interactive dashboards and reports for real-time business decisions.  
 
-🔹 Administrative support, social media management & event coordination 
-
-Over the past year, I’ve successfully collaborated with CEOs, COOs, Business Coaches, and Content Creators—helping them unlock the power of data by managing analytics, automating tasks, and improving workflow efficiency.  
+Over the past year, I’ve successfully collaborated with CEOs, COOs, and Startups helping them unlock the power of data by managing analytics, automating tasks, and improving workflow efficiency.  
 
 I leverage cutting-edge tools like Python, SQL, Tableau, Power BI, Jupyter Notebooks, Google Workspace, Slack, Trello, and Microsoft Suite to deliver high-impact solutions.  
 
