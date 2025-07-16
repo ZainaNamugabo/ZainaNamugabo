@@ -11,7 +11,7 @@ My specialized services span across:
 
 🔹 Dashboard & Reporting– Building interactive dashboards and reports for real-time business decisions.  
 
-Over the past year, I’ve successfully collaborated with CEOs, COOs, and Startups helping them unlock the power of data by managing analytics, automating tasks, and improving workflow efficiency.  
+ I’ve successfully collaborated with CEOs, COOs, and Startups helping them unlock the power of data by managing analytics, automating tasks, and improving workflow efficiency.  
 
 I leverage cutting-edge tools like Python, SQL, Tableau, Power BI, Jupyter Notebooks, Google Workspace, Slack, Trello, and Microsoft Suite to deliver high-impact solutions.  
 
